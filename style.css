@@ -4,6 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #000000;
+    max-width: 100%;
 }
 
 .footer {
@@ -302,3 +303,7 @@ footer{
     width: 32px;
     border-radius: 50%;
 }
+
+    @media (min-with<1200px) {
+        
+    }
