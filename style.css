@@ -49,6 +49,19 @@ a{
     margin-right: 20px;
 }
 
+.f_text_min a {
+    background-color: #f3e9dc; /* светлый фон по умолчанию */
+    color: #333; /* цвет текста */
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.f_text_min a:hover {
+    background-color: #e0d2b8; /* более тёмный оттенок при наведении */
+}
+
+
 .footer2 {
     background-color: rgb(192, 133, 82);
     height: 96vh;
